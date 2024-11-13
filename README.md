@@ -21,3 +21,9 @@ ollama pull gemma2
 ``` shell
 pip install langchain-ollama
 ```
+
+5. langchain_chroma 패키지 설치
+
+``` shell
+pip install langchain_chroma
+```
